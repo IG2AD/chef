@@ -4,3 +4,6 @@
 [submodule "cron"]
 	path = cron
 	url = https://github.com/opscode-cookbooks/cron.git
+[submodule "logwatch"]
+	path = logwatch
+	url = https://github.com/opscode-cookbooks/logwatch.git
