@@ -10,3 +10,6 @@
 [submodule "logrotate"]
 	path = logrotate
 	url = https://github.com/stevendanna/logrotate.git
+[submodule "perl"]
+	path = perl
+	url = https://github.com/opscode-cookbooks/perl.git
