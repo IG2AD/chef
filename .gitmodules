@@ -7,3 +7,6 @@
 [submodule "logwatch"]
 	path = logwatch
 	url = https://github.com/opscode-cookbooks/logwatch.git
+[submodule "logrotate"]
+	path = logrotate
+	url = https://github.com/stevendanna/logrotate.git
